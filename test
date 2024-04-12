@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dasmoto's Arts & Crafts</title>
+    <link rel = "stylesheet" href = "styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dasmoto's Arts & Crafts</h1>
+    </header>
+    <section>
+        <h2>Brushes</h2>
+    </section>
+    <section>
+        <h2>Frames</h2>
+    </section>
+    <section>
+        <Paint>Paint</Paint>
+    </section>
+</body>
+</html>
